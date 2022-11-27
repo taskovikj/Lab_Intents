@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab_Intents</string>
+    <string name="initialText">Hello world!</string>
+    <string name="buttonCancel">Cancel</string>
+    <string name="editTextForExplicit">Text Input</string>
+    <string name="buttonExplicit">Explicit</string>
+    <string name="buttonOkay">OK</string>
+    <string name="buttonImplicit">Implicit</string>
+    <string name="title_activity_implicit_action">IMPLICIT_ACTION</string>
+    <string name="buttonGallery">Open Gallery</string>
+    <string name="buttonShare">Share</string>
+</resources>
